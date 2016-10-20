@@ -1,0 +1,1 @@
+import ReactCalculator from './common/components/index';
